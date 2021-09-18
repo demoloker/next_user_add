@@ -1,0 +1,26 @@
+{
+  "user_add_second_step": {
+    "mt5_guid": "4bb7f8e5-2bfc-49a9-8843-ff17acf43e81"
+  },
+  "user_add_third_step_ok": {
+    "status": "ok"
+  },
+  "user_add_third_step_need_tickers": {
+    "status": "need_tickers",
+    "symbols": [
+      "NASDAQ",
+      "S&P 500"
+    ],
+    "tickers_list": [
+      {"id": 101, "ticker": "EURUSD"},
+      {"id": 102, "ticker": "#SPXL"},
+      {"id": 103, "ticker": "_DEUTSCHE_BOERSE.DE"},
+      {"id": 104, "ticker": "#STANLEYBLACK"},
+      {"id": 105, "ticker": "#MAXIMINTEGRATED"},
+      {"id": 106, "ticker": "#JEFFERIESFINANCIAL"},
+      {"id": 107, "ticker": "_ORANGE.FR"},
+      {"id": 108, "ticker": "USDDKK"},
+      {"id": 109, "ticker": "#NASDAQINC"}
+    ]
+  }
+}
